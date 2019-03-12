@@ -1,6 +1,8 @@
 # AutoIt
-AutoIt Windows Automation scripts. This folder will hold automation scripts and code snippets useful for running GUI desktop automation scirpts.
-Automation scripts can be ised for all sorts of activitites mostly for browser testing
+AutoIt Windows Automation scripts. This folder will hold automation scripts and code snippets useful for running GUI desktop automation scirpts.  Automation scripts can be ised for all sorts of activitites mostly for browser testing.
+
+There's a nice list of curated AutpIt Scripts located here:
+https://github.com/J2TeaM/awesome-AutoIt
 
 # Requirements
 * a running Windows Desktop environment
